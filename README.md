@@ -88,5 +88,3 @@ crop_area = 260,0,1650,780
 | `chrome.chromedriver_path` | ChromeDriver路径 | 驱动程序路径 |
 | `paths.image_folder` | 临时图片文件夹 | 截图存储位置 |
 | `paths.output_folder` | 输出PPT文件夹 | 生成的PPT存储位置 |
-
-## 📁 项目结构
